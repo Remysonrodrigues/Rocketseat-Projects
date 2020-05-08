@@ -30,19 +30,5 @@ module.exports = {
         } catch (error) {
             next(error);
         }
-    },
-    async update(req, res) {
-        try {
-            
-        } catch (error) {
-            next(error);
-        }
-    },
-    async delete(req, res) {
-        try {
-            
-        } catch (error) {
-            next(error);
-        }
     }
 }
